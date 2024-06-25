@@ -27,7 +27,9 @@ Rest and spread function parameters
 String templating in ES6
 Object creation and their properties in ES6
 Iterators and for-of loops
+
 Requirements
+
 General
 All your files will be executed on Ubuntu 18.04 LTS using NodeJS 12.11.x
 Allowed editors: vi, vim, emacs, Visual Studio Code
