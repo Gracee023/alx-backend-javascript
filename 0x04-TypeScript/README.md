@@ -6,11 +6,13 @@ Read or watch:
 
 TypeScript in 5 minutes
 TypeScript documentation
+
 Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
 Basic types in Typescript
 Interfaces, Classes, and functions
+
 How to work with the DOM and Typescript
 Generic types
 How to use namespaces
