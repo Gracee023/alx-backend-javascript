@@ -43,6 +43,7 @@ Test cases
 Create a file 0-calcul.test.js that contains test cases of this function
 You can assume a and b are always number
 Tests should be around the “rounded” part
+
 Tips:
 
 For the sake of the example, this test suite is slightly extreme and probably not needed
